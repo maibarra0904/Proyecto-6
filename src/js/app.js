@@ -75,7 +75,7 @@ function cambiarSeccion() {
 async function mostrarServicios() {
     try {
 
-        const url = 'http://localhost:3000/servicios.php';
+        const url = 'http://localhost:5555/servicios.php';
 
         const resultado = await fetch(url);
   

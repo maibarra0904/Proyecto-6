@@ -10,4 +10,4 @@ if (!$db) {
     exit;
 }
 
-echo 'conexion exitosa';
+//echo 'conexion exitosa';
